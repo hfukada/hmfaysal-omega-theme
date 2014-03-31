@@ -1,43 +1,42 @@
-title:            HMFAYSAL
-description:      "Omega: The Coolest Theme for Jekyll"
-logo:             omikron.png
-disqus_shortname: hmfaysal
+title:            "Hiroshi Fukada"
+description:      "Hiroshi in Jekyll"
+logo:             icon.png
+disqus_shortname: hiroshi
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
-search:           true
-share:            true
+default_bg:       bg.jpg
+search:           false
+share:            false
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
-readtime:         true
+readtime:         false
 # Turn on or off the fin animations in the header and footer
-animated_fins:	  true
+animated_fins:	  false
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://hmfaysal.github.io/hmfaysal-omega-theme
+url:              http://fukada.us/
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Hiroshi Fukada
+  avatar:         me.jpg
+  email:          hiroshi@fukada.us
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    Hiroshi Fukada is an Computer Engineer and Software Developer. His interests are anything related to software, and showing the world what he&#8217;s made.
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       
+  twitter:        
+  facebook:       
+  github:         hfukada
+  stackexchange:  
+  linkedin:       http://www.linkedin.com/pub/hiroshi-fukada/65/340/bab/
   instagram:      
   flickr:         
   tumblr:         
-  hmfaysalsocial: hmfaysal
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/+HiroshiFukada/posts
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -49,14 +48,14 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
-    url: /documentation
-  - title: Categories
-    url: /categories
-  - title: Tags
-    url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
+#  - title: <i class="icon-book"></i> Documentation
+#    url: /documentation
+#  - title: Categories
+#    url: /categories
+#  - title: Tags
+#    url: /tags
+#  - title: Faysal who?
+#    url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
