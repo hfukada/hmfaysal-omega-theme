@@ -1,6 +1,6 @@
 title:            "Hiroshi Fukada"
 description:      "Hiroshi in Jekyll"
-logo:             icon.png
+logo:             bulb.png
 disqus_shortname: hiroshi
 # Assign a default image for your site's header and footer
 default_bg:       bg.jpg
@@ -18,7 +18,7 @@ url:              http://fukada.us/
 # Owner/author information
 owner:
   name:           Hiroshi Fukada
-  avatar:         me.jpg
+  avatar:         profile.png
   email:          hiroshi@fukada.us
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Hiroshi Fukada is a Computer Engineer and Software Developer. His interests are anything related to software and showing the world what he&#8217;s made.
