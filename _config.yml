@@ -21,7 +21,7 @@ owner:
   avatar:         me.jpg
   email:          hiroshi@fukada.us
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hiroshi Fukada is an Computer Engineer and Software Developer. His interests are anything related to software, and showing the world what he&#8217;s made.
+  description:    Hiroshi Fukada is a Computer Engineer and Software Developer. His interests are anything related to software and showing the world what he&#8217;s made.
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
   twitter:        
